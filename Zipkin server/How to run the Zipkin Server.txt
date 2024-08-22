@@ -1,0 +1,3 @@
+You can run the zipkin-server using the below command in the command-prompt:
+
+java -jar zipkin.jar
